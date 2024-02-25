@@ -16,5 +16,5 @@ Edge devices provide a new application scenario for federated learning but also 
 device and data heterogeneity, existing FL mechanisms still face challenges such as long interaction times and poor quality of aggregated model updates. This paper proposes a Loss-based screening
 supplementary strategy to optimize the quality of data combinations and ensure the convergence efficiency of global model training.
 
-[L-FedTS.pdf]https://github.com/1561679840/L-FedTS/blob/main/Federated%20Learning%20Protocol%20for%20Edge%20Devices%20based%20on%20loss%20indicator.pdf
+[Federated%20Learning%20Protocol%20for%20Edge%20Devices%20based%20on%20loss%20indicator.pdf]https://github.com/1561679840/L-FedTS/blob/main/Federated%20Learning%20Protocol%20for%20Edge%20Devices%20based%20on%20loss%20indicator.pdf
 # L-FedTS
