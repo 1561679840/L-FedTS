@@ -7,18 +7,9 @@ Latex file of paper
 Federated Learning Protocol for Edge Devices based on loss indicator
 
 ## Author:
-Qian Li
-University of Science and Technology Beijing
-Beijing, China, 100000
-1019173685@qq.com
-Ziyi Gao
-University of Science and Technology Beijing
-Beijing, China, 100000
-ustbgzy@163.com
-*Rui Wang
-University of Science and Technology Beijing
-Beijing, China, 100000
-wangrui@ustb.edu.cn
+Qian Li, University of Science and Technology Beijing, China, 100000, 1019173685@qq.com
+Ziyi Gao, University of Science and Technology Beijing, China, 100000, ustbgzy@163.com
+*Rui Wang, University of Science and Technology Beijing, China, 100000, wangrui@ustb.edu.cn
 
 ## Abstract:
 Edge devices provide a new application scenario for federated learning but also exacerbate the heterogeneity among clients in federated learning. In the training process of federated learning, due to
