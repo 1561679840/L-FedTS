@@ -1,7 +1,7 @@
 
 ## Description:
 
-Latex file of paper
+Latex file and code of paper
 
 ## Abstract:
 Edge devices provide a new application scenario for federated learning but also exacerbate the heterogeneity among clients in federated learning. In the training process of federated learning, due to
